@@ -22,7 +22,11 @@ This project is a command-line application which is designed to be an easy to us
 
 
 ## Installation
-First I need to clone my repository using the command "git clone". Secondly, I need to open my repository in the application VS Code. Thirdly, I need to make sure node.js is already installed as an application on my local computer. Fourthly, I need to make sure a package.json file is running properly and then use the command "npm init -y" to install the proper file type. Lastly, run "npm install".
+First step: I need to clone my repository using the command "git clone". 
+Second step: I need to open my repository in the application VS Code. 
+Third step: I need to make sure node.js is already installed as an application on my local computer.
+Fourth step: I need to make sure a package.json file is running properly and then use the command "npm init -y" to install the proper file type. 
+Fifth step: Run "npm install".
 
 ## Usage
 Make sure to run the command "node index.js" in the correct terminal location and then follow each question the prompt asks of you to complete the ReadMe generator.
