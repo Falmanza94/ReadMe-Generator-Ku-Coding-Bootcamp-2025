@@ -35,6 +35,3 @@ Run the commands within the terminal and watch the linked video above.
 
 ## Questions
 If you have questions, reach out to me at [fischer.almanza@gmail.com](mailto:fischer.almanza@gmail.com). You can find more of my work at [Falmanza94](https://github.com/Falmanza94).
-
-## Link to Video:
-[![Ku-Coding-Bootcamp-Activity7-ReadMe-Generator]](https://watch.screencastify.com/v/aTZ5mbj78AbsE0J3wynG)
